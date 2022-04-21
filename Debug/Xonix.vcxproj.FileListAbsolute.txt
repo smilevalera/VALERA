@@ -1,0 +1,2 @@
+C:\Users\st\source\repos\Xonix\Debug\Xonix.exe
+C:\Users\st\source\repos\Xonix\Debug\Xonix.pdb

@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\st\source\repos\Xonix\Game.cpp(197,2): warning C4551: function call missing argument list
+  Xonix.vcxproj -> C:\Users\st\source\repos\Xonix\Debug\Xonix.exe
